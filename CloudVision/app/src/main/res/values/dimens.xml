@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="margin_padding">10dp</dimen>
+    <dimen name="margin_padding_large">20dp</dimen>
+    <dimen name="margin_padding_small">5dp</dimen>
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="header_text_width">120dp</dimen>
+</resources>
